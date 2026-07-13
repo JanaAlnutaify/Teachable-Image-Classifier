@@ -1,6 +1,5 @@
 # Teachable-Image-Classifier
 
-# 🐾 Teachable Machine Image Classification via TFLite
 
 An optimized, conflict-free pipeline to deploy Teachable Machine vision models into modern TensorFlow environments without Keras runtime exceptions.
 
